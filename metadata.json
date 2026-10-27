@@ -1,0 +1,6 @@
+{
+  "name": "Dental House | Orthodontics & Modern Dental Clinic in Saddar, Karachi",
+  "description": "Sleek 3D interactive dental clinic website for Dental House at Shop #19, Daud Pota Road, Bohri Bazar, Saddar, Karachi. Explore services, interactive 3D dental anatomy & orthodontic aligner models, verified patient reviews, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
